@@ -14,13 +14,16 @@
 
 similar then human hand
 
+
 #### Training Process
 
-<img width="502" height="155" alt="image" src="https://github.com/user-attachments/assets/b70aae77-a6de-426c-8dcc-c3513664db24" />
+<img width="487" height="278" alt="image" src="https://github.com/user-attachments/assets/81f8c381-9006-4369-abe7-3af89ec57f26" />
 
 
 #### Training results
 
-<img width="487" height="278" alt="image" src="https://github.com/user-attachments/assets/81f8c381-9006-4369-abe7-3af89ec57f26" />
+<img width="410" height="239" alt="image" src="https://github.com/user-attachments/assets/59c31a89-9265-4441-8c2f-cec13acc80a9" />
+<img width="410" height="243" alt="image" src="https://github.com/user-attachments/assets/32a75ce5-7c1c-46ba-b2ed-1635eb732e86" />
+
 
 
